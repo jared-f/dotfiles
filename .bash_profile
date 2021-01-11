@@ -45,3 +45,5 @@ source "$DOTFILES_DIR/dotfiles/.git-completion.bash"
 [ -f ~/.fzf.bash ] && source ~/.fzf.bash
 
 [ -f ~/.bashrc ] && source ~/.bashrc
+LC_ALL=en_US.UTF-8
+LC_CTYPE=en_US.UTF-8

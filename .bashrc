@@ -116,3 +116,4 @@ export KUBECONFIG="$HOME/.kube/config"
 
 # kubectl autocomplete
 source <(kubectl completion bash)
+[ -s "$NVM_DIR/bash_completion" ] && \. "$NVM_DIR/bash_completion"  # This loads nvm bash_completion
